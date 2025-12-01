@@ -14,8 +14,8 @@ st.set_page_config(layout="wide")
 # --------------------------
 
 def load_json(folder):
-    # Ищем только основной файл в текущей папке
-    path_main = f"{folder}_results.json"
+    base_path = os.path.dirname(__file__)  # папка, где лежит app.py
+    path_main = os.path.join(base_path, f"{folder}_results.json")
     if os.path.exists(path_main):
         with open(path_main, "r", encoding="utf-8") as f:
             return json.load(f)
@@ -88,6 +88,7 @@ for tab, folder in zip(tabs, folders):
         st.pyplot(fig)
     else:
         st.info("No daily revenue data available for this dataset.")
+
 
 
 
