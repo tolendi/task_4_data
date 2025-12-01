@@ -51,7 +51,7 @@ def render_tab(folder_name):
 
     # --- Best Buyer(s) ---
     st.subheader("🏆 Best Buyer(s)")
-    st.write(data.get("best_buyer", "N/A"))
+    best_buyers = data.get("best_buyer", [])
 
     # --- Top 5 Days ---
     st.subheader("📅 Top 5 Days by Revenue")
@@ -97,3 +97,4 @@ folders = ["DATA1", "DATA2", "DATA3"]
 for tab_obj, folder in zip(tabs, folders):
     with tab_obj:
         render_tab(folder)
+
