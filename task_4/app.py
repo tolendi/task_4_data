@@ -27,18 +27,12 @@ def load_json(folder):
 
 # --------------------------
 
-st.title("📊 Online Dashboard for Book Store Analysis")
-
-tabs = st.tabs(["DATA1", "DATA2", "DATA3"])
-folders = ["DATA1", "DATA2", "DATA3"]
-
-for tab, folder in zip(tabs, folders):
-    with tab:
-        st.header(f"📊 Dataset: {folder}")
-        data = load_json(folder)
-        if not data:
-            st.warning(f"No data found for {folder}. Make sure the JSON file exists.")
-            continue
+def render_tab(folder_name):
+    st.header(f"📊 Dataset: {folder_name}")
+    data = load_json(folder_name)
+    if not data:
+        st.warning(f"No data found for {folder_name}. Make sure the JSON file exists.")
+        return
 
     # --- KPI CARDS ---
     df_rev = pd.DataFrame(data.get("daily_revenue", []))
@@ -79,6 +73,18 @@ for tab, folder in zip(tabs, folders):
         st.plotly_chart(fig, use_container_width=True)
     else:
         st.info("No daily revenue data available.")
+
+
+# --------------------------
+# Tabs
+# --------------------------
+tabs = st.tabs(["DATA1", "DATA2", "DATA3"])
+folders = ["DATA1", "DATA2", "DATA3"]
+
+for tab_obj, folder in zip(tabs, folders):
+    with tab_obj:
+        render_tab(folder)
+
 
 
 
