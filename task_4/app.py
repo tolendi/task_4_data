@@ -25,11 +25,12 @@ except ImportError:
 # --------------------------
 
 def load_json(folder):
-path_main = os.path.join(os.path.dirname(**file**), f"{folder}_results.json")
-if os.path.exists(path_main):
-with open(path_main, "r", encoding="utf-8") as f:
-return json.load(f)
-return None
+    path_main = os.path.join(os.path.dirname(__file__), f"{folder}_results.json")
+    if os.path.exists(path_main):
+        with open(path_main, "r", encoding="utf-8") as f:
+            return json.load(f)
+    return None
+
 
 # --------------------------
 
@@ -108,4 +109,5 @@ folders = ["DATA1", "DATA2", "DATA3"]
 for tab_obj, folder in zip(tabs, folders):
 with tab_obj:
 render_tab(folder)
+
 
