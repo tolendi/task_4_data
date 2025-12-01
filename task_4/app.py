@@ -12,11 +12,11 @@ initial_sidebar_state="expanded"
 # Попробуем импортировать Plotly
 
 try:
-import plotly.express as px
-PLOTLY_AVAILABLE = True
+    import plotly.express as px
+    PLOTLY_AVAILABLE = True
 except ImportError:
-import matplotlib.pyplot as plt
-PLOTLY_AVAILABLE = False
+    import matplotlib.pyplot as plt
+    PLOTLY_AVAILABLE = False
 
 # --------------------------
 
@@ -108,3 +108,4 @@ folders = ["DATA1", "DATA2", "DATA3"]
 for tab_obj, folder in zip(tabs, folders):
 with tab_obj:
 render_tab(folder)
+
