@@ -10,10 +10,18 @@ st.set_page_config(layout="wide")
 # Function to load result JSON
 # --------------------------
 def load_json(folder):
-    path = f"{folder}_results.json"  # DATA1_results.json
-    if os.path.exists(path):
-        with open(path, "r", encoding="utf-8") as f:
+    # Попытка загрузить из подпапки
+    path_subfolder = os.path.join(folder, "results.json")
+    if os.path.exists(path_subfolder):
+        with open(path_subfolder, "r", encoding="utf-8") as f:
             return json.load(f)
+    
+    # Попытка загрузить из основного каталога
+    path_main = f"{folder}_results.json"
+    if os.path.exists(path_main):
+        with open(path_main, "r", encoding="utf-8") as f:
+            return json.load(f)
+    
     return None
 
 # --------------------------
@@ -67,5 +75,6 @@ for tab, folder in zip(tabs, folders):
             st.pyplot(fig)
         else:
             st.info("No daily revenue data available for this dataset.")
+
 
 
