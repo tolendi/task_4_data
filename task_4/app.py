@@ -40,23 +40,22 @@ tabs = st.tabs(["DATA1", "DATA2", "DATA3"])
 folders = ["DATA1", "DATA2", "DATA3"]
 
 for tab, folder in zip(tabs, folders):
-with tab:
-st.header(f"Dataset: {folder}")
-data = load_json(folder)
+    with tab:
+        st.header(f"Dataset: {folder}")
+        data = load_json(folder)
 
-```
-    if not data:
-        st.warning(f"No data found for {folder}. Make sure the JSON file exists.")
-        continue
+        if not data:
+            st.warning(f"No data found for {folder}. Make sure the JSON file exists.")
+            continue
 
-    # --- Cards with KPIs ---
-    col1, col2, col3 = st.columns(3)
-    with col1:
-        st.metric("Unique Users", data.get("unique_users", "N/A"))
-    with col2:
-        st.metric("Unique Author Sets", data.get("unique_author_sets", "N/A"))
-    with col3:
-        st.metric("Most Popular Author", data.get("most_popular_author", "N/A"))
+        # --- Cards with KPIs ---
+        col1, col2, col3 = st.columns(3)
+        with col1:
+            st.metric("Unique Users", data.get("unique_users", "N/A"))
+        with col2:
+            st.metric("Unique Author Sets", data.get("unique_author_sets", "N/A"))
+        with col3:
+            st.metric("Most Popular Author", data.get("most_popular_author", "N/A"))
 
     # --- Best Buyer(s) ---
     st.subheader("Best Buyer(s)")
@@ -97,4 +96,5 @@ data = load_json(folder)
     else:
         st.info("No daily revenue data available for this dataset.")
 ```
+
 
