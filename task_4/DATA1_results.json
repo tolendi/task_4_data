@@ -9,9 +9,7 @@
   "unique_users": 3115,
   "unique_author_sets": 361,
   "most_popular_author": "Arlinda Huel",
-  "best_buyer": [
-    44650
-  ],
+  "best_buyer": [44650],
   "daily_revenue": [
     {
       "date": "2024-01-05",
@@ -2494,4 +2492,5 @@
       "paid_price": 172.79999999999998
     }
   ]
+
 }
