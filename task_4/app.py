@@ -53,6 +53,12 @@ def render_tab(folder_name):
     st.subheader("🏆 Best Buyer(s)")
     best_buyers = data.get("best_buyer", [])
 
+    if best_buyers:
+        df_buyers = pd.DataFrame(best_buyers, columns=["Buyer ID"])
+        st.table(df_buyers)
+    else:
+        st.info("No best buyers available.")
+
     # --- Top 5 Days ---
     st.subheader("📅 Top 5 Days by Revenue")
     top5 = pd.DataFrame({"date": data.get("top_5_days", [])})
@@ -97,4 +103,5 @@ folders = ["DATA1", "DATA2", "DATA3"]
 for tab_obj, folder in zip(tabs, folders):
     with tab_obj:
         render_tab(folder)
+
 
