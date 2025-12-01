@@ -95,6 +95,7 @@ for tab, folder in zip(tabs, folders):
         st.pyplot(fig)
     else:
         st.info("No daily revenue data available for this dataset.")
-```
+
+
 
 
