@@ -38,23 +38,26 @@ def render_tab(folder_name):
     if not data:
         st.warning(f"No data found for {folder_name}. Make sure the JSON file exists.")
         return
-
+    
     # --- KPI CARDS ---
     df_rev = pd.DataFrame(data.get("daily_revenue", []))
     total_rev = df_rev["paid_price"].sum() if not df_rev.empty else 0
 
+    full_author_list = data.get("most_popular_author", "N/A")
+
+    if "," in full_author_list:
+        display_author = full_author_list.split(",")[0].strip()
+        display_author += " +"
+    else:
+        display_author = full_author_list
+
     kpi_cols = st.columns(4)
     kpi_cols[0].metric("Unique Users", data.get("unique_users", "N/A"))
     kpi_cols[1].metric("Unique Author Sets", data.get("unique_author_sets", "N/A"))
-    most_popular_author_text = data.get("most_popular_author", "N/A")
-    if "," in most_popular_author_text:
-        first_author = most_popular_author_text.split(",")[0].strip()
-        kpi_cols[2].metric("Most Popular Author", f"{first_author} (+ others)")
-    else:
-        kpi_cols[2].metric("Most Popular Author", most_popular_author_text)  
+    kpi_cols[2].metric("Most Popular Author", display_author) 
     kpi_cols[3].metric("Total Revenue (USD)", f"${total_rev:,.2f}")
 
-    with st.expander("Показать полный список самых популярных авторов"):
+    with st.expander("Most Popular Author Full List"):
         st.markdown(f"**Полный список:** {data.get('most_popular_author', 'N/A')}")
 
     # --- Best Buyer(s) ---
@@ -105,6 +108,7 @@ folders = ["DATA1", "DATA2", "DATA3"]
 for tab_obj, folder in zip(tabs, folders):
     with tab_obj:
         render_tab(folder)
+
 
 
 
