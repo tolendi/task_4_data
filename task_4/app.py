@@ -46,7 +46,7 @@ def render_tab(folder_name):
     kpi_cols = st.columns(4)
     kpi_cols[0].metric("Unique Users", data.get("unique_users", "N/A"))
     kpi_cols[1].metric("Unique Author Sets", data.get("unique_author_sets", "N/A"))
-    kpi_cols[2].metric("Most Popular Author", data.get("most_popular_author", "N/A"))
+    kpi_cols[2].metric("Topr Author", data.get("most_popular_author", "N/A"))
     kpi_cols[3].metric("Total Revenue (USD)", f"${total_rev:,.2f}")
 
     # --- Best Buyer(s) ---
@@ -97,6 +97,7 @@ folders = ["DATA1", "DATA2", "DATA3"]
 for tab_obj, folder in zip(tabs, folders):
     with tab_obj:
         render_tab(folder)
+
 
 
 
