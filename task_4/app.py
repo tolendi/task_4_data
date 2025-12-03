@@ -57,9 +57,6 @@ def render_tab(folder_name):
     kpi_cols[2].metric("Most Popular Author", display_author) 
     kpi_cols[3].metric("Total Revenue (USD)", f"${total_rev:,.2f}")
 
-    with st.expander("Most Popular Author Full List"):
-        st.markdown(f"**Полный список:** {data.get('most_popular_author', 'N/A')}")
-
     # --- Best Buyer(s) ---
     st.subheader("🏆 Best Buyer(s)")
     st.write(data.get("best_buyer", "N/A"))
@@ -108,6 +105,7 @@ folders = ["DATA1", "DATA2", "DATA3"]
 for tab_obj, folder in zip(tabs, folders):
     with tab_obj:
         render_tab(folder)
+
 
 
 
