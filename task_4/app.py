@@ -46,8 +46,16 @@ def render_tab(folder_name):
     kpi_cols = st.columns(4)
     kpi_cols[0].metric("Unique Users", data.get("unique_users", "N/A"))
     kpi_cols[1].metric("Unique Author Sets", data.get("unique_author_sets", "N/A"))
-    kpi_cols[2].metric("Topr Author", data.get("most_popular_author", "N/A"))
+    most_popular_author_text = data.get("most_popular_author", "N/A")
+    if "," in most_popular_author_text:
+        first_author = most_popular_author_text.split(",")[0].strip()
+        kpi_cols[2].metric("Most Popular Author", f"{first_author} (+ others)")
+    else:
+        kpi_cols[2].metric("Most Popular Author", most_popular_author_text)  
     kpi_cols[3].metric("Total Revenue (USD)", f"${total_rev:,.2f}")
+
+    with st.expander("Показать полный список самых популярных авторов"):
+        st.markdown(f"**Полный список:** {data.get('most_popular_author', 'N/A')}")
 
     # --- Best Buyer(s) ---
     st.subheader("🏆 Best Buyer(s)")
@@ -97,6 +105,7 @@ folders = ["DATA1", "DATA2", "DATA3"]
 for tab_obj, folder in zip(tabs, folders):
     with tab_obj:
         render_tab(folder)
+
 
 
 
