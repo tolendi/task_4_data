@@ -1,16 +1,17 @@
 {
   "top_5_days": [
-    "2025-11-29",
     "2024-11-15",
     "2024-07-18",
-    "2024-11-29",
-    "2025-04-17"
+    "2024-12-10",
+    "2024-09-12",
+    "2024-08-24"
   ],
   "unique_users": 2663,
   "unique_author_sets": 349,
-  "most_popular_author": "Jaimie Skiles",
+  "most_popular_author": "Brianna O'Conner",
   "best_buyer": [
-    54419
+    54380,
+    54745
   ],
   "daily_revenue": [
     {
@@ -42,16 +43,16 @@
       "paid_price": 8771.4
     },
     {
-      "date": "2024-01-22",
-      "paid_price": 79.18799999999999
-    },
-    {
       "date": "2024-01-23",
       "paid_price": 18373.8
     },
     {
       "date": "2024-01-25",
       "paid_price": 148.5
+    },
+    {
+      "date": "2024-01-26",
+      "paid_price": 68.39999999999999
     },
     {
       "date": "2024-01-27",
@@ -87,7 +88,7 @@
     },
     {
       "date": "2024-02-09",
-      "paid_price": 27.0
+      "paid_price": 64.5
     },
     {
       "date": "2024-02-11",
@@ -115,7 +116,7 @@
     },
     {
       "date": "2024-02-19",
-      "paid_price": 56.4
+      "paid_price": 126.0
     },
     {
       "date": "2024-02-20",
@@ -127,7 +128,7 @@
     },
     {
       "date": "2024-02-22",
-      "paid_price": 42.3
+      "paid_price": 60.9
     },
     {
       "date": "2024-02-23",
@@ -135,7 +136,7 @@
     },
     {
       "date": "2024-02-24",
-      "paid_price": 38.376
+      "paid_price": 166.2
     },
     {
       "date": "2024-02-25",
@@ -162,28 +163,24 @@
       "paid_price": 38.4
     },
     {
-      "date": "2024-03-04",
-      "paid_price": 84.3
-    },
-    {
       "date": "2024-03-05",
       "paid_price": 39.0
     },
     {
       "date": "2024-03-06",
-      "paid_price": 4584.0
+      "paid_price": 4821.6
     },
     {
       "date": "2024-03-07",
-      "paid_price": 5934.0
+      "paid_price": 5910.0
     },
     {
       "date": "2024-03-08",
-      "paid_price": 103.176
+      "paid_price": 549.264
     },
     {
       "date": "2024-03-10",
-      "paid_price": 373.74
+      "paid_price": 431.94
     },
     {
       "date": "2024-03-11",
@@ -191,7 +188,7 @@
     },
     {
       "date": "2024-03-12",
-      "paid_price": 2790.6
+      "paid_price": 2898.2999999999997
     },
     {
       "date": "2024-03-13",
@@ -207,7 +204,7 @@
     },
     {
       "date": "2024-03-16",
-      "paid_price": 398.7
+      "paid_price": 331.5
     },
     {
       "date": "2024-03-17",
@@ -215,7 +212,7 @@
     },
     {
       "date": "2024-03-18",
-      "paid_price": 343.176
+      "paid_price": 418.77599999999995
     },
     {
       "date": "2024-03-19",
@@ -223,15 +220,15 @@
     },
     {
       "date": "2024-03-20",
-      "paid_price": 7498.776
+      "paid_price": 296.976
     },
     {
       "date": "2024-03-21",
-      "paid_price": 44.1
+      "paid_price": 151.5
     },
     {
       "date": "2024-03-22",
-      "paid_price": 439.5
+      "paid_price": 408.0
     },
     {
       "date": "2024-03-23",
@@ -239,11 +236,11 @@
     },
     {
       "date": "2024-03-24",
-      "paid_price": 208.79999999999998
+      "paid_price": 6178.8
     },
     {
       "date": "2024-03-25",
-      "paid_price": 121.19999999999999
+      "paid_price": 282.0
     },
     {
       "date": "2024-03-26",
@@ -251,7 +248,7 @@
     },
     {
       "date": "2024-03-27",
-      "paid_price": 38.4
+      "paid_price": 142.79999999999998
     },
     {
       "date": "2024-03-28",
@@ -259,11 +256,11 @@
     },
     {
       "date": "2024-03-29",
-      "paid_price": 115.19999999999999
+      "paid_price": 5601.6
     },
     {
       "date": "2024-03-30",
-      "paid_price": 135.3
+      "paid_price": 51.6
     },
     {
       "date": "2024-03-31",
@@ -283,11 +280,11 @@
     },
     {
       "date": "2024-04-04",
-      "paid_price": 7608.6
+      "paid_price": 10814.1
     },
     {
       "date": "2024-04-05",
-      "paid_price": 373.2
+      "paid_price": 404.7
     },
     {
       "date": "2024-04-06",
@@ -295,23 +292,23 @@
     },
     {
       "date": "2024-04-07",
-      "paid_price": 79.788
+      "paid_price": 3588.288
     },
     {
       "date": "2024-04-08",
-      "paid_price": 468.29999999999995
+      "paid_price": 417.3
     },
     {
       "date": "2024-04-09",
-      "paid_price": 597.3
+      "paid_price": 546.0
     },
     {
       "date": "2024-04-10",
-      "paid_price": 20025.0
+      "paid_price": 20000.7
     },
     {
       "date": "2024-04-11",
-      "paid_price": 891.9
+      "paid_price": 941.6999999999999
     },
     {
       "date": "2024-04-12",
@@ -319,7 +316,7 @@
     },
     {
       "date": "2024-04-13",
-      "paid_price": 8405.1
+      "paid_price": 8348.7
     },
     {
       "date": "2024-04-14",
@@ -327,11 +324,11 @@
     },
     {
       "date": "2024-04-15",
-      "paid_price": 265.188
+      "paid_price": 311.988
     },
     {
       "date": "2024-04-16",
-      "paid_price": 290.1
+      "paid_price": 265.5
     },
     {
       "date": "2024-04-17",
@@ -339,79 +336,79 @@
     },
     {
       "date": "2024-04-18",
-      "paid_price": 589.1999999999999
+      "paid_price": 383.4
     },
     {
       "date": "2024-04-19",
-      "paid_price": 13522.5
+      "paid_price": 13587.3
     },
     {
       "date": "2024-04-20",
-      "paid_price": 885.3
+      "paid_price": 661.4879999999999
     },
     {
       "date": "2024-04-21",
-      "paid_price": 423.9
+      "paid_price": 340.5
     },
     {
       "date": "2024-04-22",
-      "paid_price": 241.5
+      "paid_price": 205.2
     },
     {
       "date": "2024-04-23",
-      "paid_price": 17640.0
+      "paid_price": 17700.0
     },
     {
       "date": "2024-04-24",
-      "paid_price": 43918.476
+      "paid_price": 44094.876
     },
     {
       "date": "2024-04-25",
-      "paid_price": 450.6
+      "paid_price": 524.1
     },
     {
       "date": "2024-04-26",
-      "paid_price": 3491.7
+      "paid_price": 3467.4
     },
     {
       "date": "2024-04-27",
-      "paid_price": 780.3
+      "paid_price": 26883.588
     },
     {
       "date": "2024-04-28",
-      "paid_price": 10097.964
+      "paid_price": 31643.964
     },
     {
       "date": "2024-04-29",
-      "paid_price": 4126.788
+      "paid_price": 394.188
     },
     {
       "date": "2024-04-30",
-      "paid_price": 7554.288
+      "paid_price": 7894.188
     },
     {
       "date": "2024-05-01",
-      "paid_price": 1327.5
+      "paid_price": 1359.6
     },
     {
       "date": "2024-05-02",
-      "paid_price": 5629.488
+      "paid_price": 5607.588000000001
     },
     {
       "date": "2024-05-03",
-      "paid_price": 179.988
+      "paid_price": 208.5
     },
     {
       "date": "2024-05-04",
-      "paid_price": 6695.94
+      "paid_price": 7009.44
     },
     {
       "date": "2024-05-05",
-      "paid_price": 790.752
+      "paid_price": 827.352
     },
     {
       "date": "2024-05-06",
-      "paid_price": 402.59999999999997
+      "paid_price": 384.59999999999997
     },
     {
       "date": "2024-05-07",
@@ -419,43 +416,43 @@
     },
     {
       "date": "2024-05-08",
-      "paid_price": 508.5
+      "paid_price": 647.7
     },
     {
       "date": "2024-05-09",
-      "paid_price": 4112.7
+      "paid_price": 4058.9999999999995
     },
     {
       "date": "2024-05-10",
-      "paid_price": 878.088
+      "paid_price": 585.288
     },
     {
       "date": "2024-05-11",
-      "paid_price": 614.016
+      "paid_price": 9297.228
     },
     {
       "date": "2024-05-12",
-      "paid_price": 772.8
+      "paid_price": 1039.164
     },
     {
       "date": "2024-05-13",
-      "paid_price": 208.8
+      "paid_price": 385.788
     },
     {
       "date": "2024-05-14",
-      "paid_price": 337.79999999999995
+      "paid_price": 367.79999999999995
     },
     {
       "date": "2024-05-15",
-      "paid_price": 14544.0
+      "paid_price": 532.788
     },
     {
       "date": "2024-05-16",
-      "paid_price": 403.46399999999994
+      "paid_price": 365.664
     },
     {
       "date": "2024-05-17",
-      "paid_price": 579.8879999999999
+      "paid_price": 642.288
     },
     {
       "date": "2024-05-18",
@@ -463,19 +460,19 @@
     },
     {
       "date": "2024-05-19",
-      "paid_price": 401.06399999999996
+      "paid_price": 436.176
     },
     {
       "date": "2024-05-20",
-      "paid_price": 18301.8
+      "paid_price": 18323.100000000002
     },
     {
       "date": "2024-05-21",
-      "paid_price": 25128.9
+      "paid_price": 402.29999999999995
     },
     {
       "date": "2024-05-22",
-      "paid_price": 7989.299999999999
+      "paid_price": 7968.599999999999
     },
     {
       "date": "2024-05-23",
@@ -483,123 +480,123 @@
     },
     {
       "date": "2024-05-24",
-      "paid_price": 12382.2
+      "paid_price": 9828.3
     },
     {
       "date": "2024-05-25",
-      "paid_price": 3217.5
+      "paid_price": 9195.9
     },
     {
       "date": "2024-05-26",
-      "paid_price": 5553.6
+      "paid_price": 303.6
     },
     {
       "date": "2024-05-27",
-      "paid_price": 3204.288
+      "paid_price": 11246.4
     },
     {
       "date": "2024-05-28",
-      "paid_price": 1257.276
+      "paid_price": 1322.076
     },
     {
       "date": "2024-05-29",
-      "paid_price": 34854.9
+      "paid_price": 34808.1
     },
     {
       "date": "2024-05-30",
-      "paid_price": 10857.0
+      "paid_price": 3401.4
     },
     {
       "date": "2024-05-31",
-      "paid_price": 582.8879999999999
+      "paid_price": 652.4879999999999
     },
     {
       "date": "2024-06-01",
-      "paid_price": 459.29999999999995
+      "paid_price": 549.6
     },
     {
       "date": "2024-06-02",
-      "paid_price": 16914.564
+      "paid_price": 16725.564
     },
     {
       "date": "2024-06-03",
-      "paid_price": 9523.8
+      "paid_price": 9560.4
     },
     {
       "date": "2024-06-04",
-      "paid_price": 663.564
+      "paid_price": 598.764
     },
     {
       "date": "2024-06-05",
-      "paid_price": 1175.3999999999999
+      "paid_price": 1415.7
     },
     {
       "date": "2024-06-06",
-      "paid_price": 11699.699999999999
+      "paid_price": 4300.5
     },
     {
       "date": "2024-06-07",
-      "paid_price": 419.988
+      "paid_price": 665.976
     },
     {
       "date": "2024-06-08",
-      "paid_price": 16530.288
+      "paid_price": 16590.888
     },
     {
       "date": "2024-06-09",
-      "paid_price": 2905.4880000000003
+      "paid_price": 2606.988
     },
     {
       "date": "2024-06-10",
-      "paid_price": 6446.652
+      "paid_price": 6361.452
     },
     {
       "date": "2024-06-11",
-      "paid_price": 1151.6879999999999
+      "paid_price": 1285.2
     },
     {
       "date": "2024-06-12",
-      "paid_price": 9120.0
+      "paid_price": 12201.0
     },
     {
       "date": "2024-06-13",
-      "paid_price": 9595.8
+      "paid_price": 9562.2
     },
     {
       "date": "2024-06-14",
-      "paid_price": 964.5
+      "paid_price": 796.5
     },
     {
       "date": "2024-06-15",
-      "paid_price": 547.776
+      "paid_price": 856.1759999999999
     },
     {
       "date": "2024-06-16",
-      "paid_price": 1139.3999999999999
+      "paid_price": 1184.388
     },
     {
       "date": "2024-06-17",
-      "paid_price": 682.5
+      "paid_price": 903.0
     },
     {
       "date": "2024-06-18",
-      "paid_price": 7757.04
+      "paid_price": 587.664
     },
     {
       "date": "2024-06-19",
-      "paid_price": 9584.688
+      "paid_price": 9578.988
     },
     {
       "date": "2024-06-20",
-      "paid_price": 33421.5
+      "paid_price": 33519.9
     },
     {
       "date": "2024-06-21",
-      "paid_price": 3058.428
+      "paid_price": 40139.928
     },
     {
       "date": "2024-06-22",
-      "paid_price": 790.4399999999999
+      "paid_price": 615.24
     },
     {
       "date": "2024-06-23",
@@ -607,623 +604,623 @@
     },
     {
       "date": "2024-06-24",
-      "paid_price": 4901.7
+      "paid_price": 5091.9
     },
     {
       "date": "2024-06-25",
-      "paid_price": 517.776
+      "paid_price": 577.776
     },
     {
       "date": "2024-06-26",
-      "paid_price": 790.1519999999999
+      "paid_price": 2675.64
     },
     {
       "date": "2024-06-27",
-      "paid_price": 9258.3
+      "paid_price": 9138.6
     },
     {
       "date": "2024-06-28",
-      "paid_price": 13244.988
+      "paid_price": 8423.387999999999
     },
     {
       "date": "2024-06-29",
-      "paid_price": 8135.364
+      "paid_price": 7580.964
     },
     {
       "date": "2024-06-30",
-      "paid_price": 24788.940000000002
+      "paid_price": 24749.940000000002
     },
     {
       "date": "2024-07-01",
-      "paid_price": 1034.352
+      "paid_price": 1181.34
     },
     {
       "date": "2024-07-02",
-      "paid_price": 978.852
+      "paid_price": 925.1519999999999
     },
     {
       "date": "2024-07-03",
-      "paid_price": 857.0999999999999
+      "paid_price": 1290.3
     },
     {
       "date": "2024-07-04",
-      "paid_price": 10444.8
+      "paid_price": 21290.076
     },
     {
       "date": "2024-07-05",
-      "paid_price": 949.4639999999999
+      "paid_price": 1239.24
     },
     {
       "date": "2024-07-06",
-      "paid_price": 15714.84
+      "paid_price": 21441.600000000002
     },
     {
       "date": "2024-07-07",
-      "paid_price": 5699.052
+      "paid_price": 3127.116
     },
     {
       "date": "2024-07-08",
-      "paid_price": 14339.088
+      "paid_price": 14511.864
     },
     {
       "date": "2024-07-09",
-      "paid_price": 39894.888
+      "paid_price": 44618.4
     },
     {
       "date": "2024-07-10",
-      "paid_price": 938.364
+      "paid_price": 1027.44
     },
     {
       "date": "2024-07-11",
-      "paid_price": 3040.788
+      "paid_price": 3306.0
     },
     {
       "date": "2024-07-12",
-      "paid_price": 5427.527999999999
+      "paid_price": 1129.728
     },
     {
       "date": "2024-07-13",
-      "paid_price": 23976.0
+      "paid_price": 16512.288
     },
     {
       "date": "2024-07-14",
-      "paid_price": 969.8639999999999
+      "paid_price": 849.576
     },
     {
       "date": "2024-07-15",
-      "paid_price": 494.688
+      "paid_price": 13775.088
     },
     {
       "date": "2024-07-16",
-      "paid_price": 657.588
+      "paid_price": 681.8879999999999
     },
     {
       "date": "2024-07-17",
-      "paid_price": 3701.964
+      "paid_price": 3699.8399999999997
     },
     {
       "date": "2024-07-18",
-      "paid_price": 67816.488
+      "paid_price": 67782.288
     },
     {
       "date": "2024-07-19",
-      "paid_price": 15792.588
+      "paid_price": 15692.376
     },
     {
       "date": "2024-07-20",
-      "paid_price": 981.276
+      "paid_price": 713.9879999999999
     },
     {
       "date": "2024-07-21",
-      "paid_price": 26952.575999999997
+      "paid_price": 26858.064
     },
     {
       "date": "2024-07-22",
-      "paid_price": 2025.588
+      "paid_price": 1890.288
     },
     {
       "date": "2024-07-23",
-      "paid_price": 17594.388
+      "paid_price": 12136.488000000001
     },
     {
       "date": "2024-07-24",
-      "paid_price": 15349.5
+      "paid_price": 12719.976
     },
     {
       "date": "2024-07-25",
-      "paid_price": 21399.264
+      "paid_price": 21395.664
     },
     {
       "date": "2024-07-26",
-      "paid_price": 21447.600000000002
+      "paid_price": 21425.688
     },
     {
       "date": "2024-07-27",
-      "paid_price": 6489.8640000000005
+      "paid_price": 6288.0
     },
     {
       "date": "2024-07-28",
-      "paid_price": 9056.975999999999
+      "paid_price": 6254.6759999999995
     },
     {
       "date": "2024-07-29",
-      "paid_price": 1244.316
+      "paid_price": 1096.464
     },
     {
       "date": "2024-07-30",
-      "paid_price": 51285.6
+      "paid_price": 35426.364
     },
     {
       "date": "2024-07-31",
-      "paid_price": 3674.364
+      "paid_price": 4002.528
     },
     {
       "date": "2024-08-01",
-      "paid_price": 1356.264
+      "paid_price": 1669.1639999999998
     },
     {
       "date": "2024-08-02",
-      "paid_price": 41744.7
+      "paid_price": 35264.7
     },
     {
       "date": "2024-08-03",
-      "paid_price": 7443.54
+      "paid_price": 7731.252
     },
     {
       "date": "2024-08-04",
-      "paid_price": 10981.776
+      "paid_price": 11298.876
     },
     {
       "date": "2024-08-05",
-      "paid_price": 7013.988
+      "paid_price": 7272.576
     },
     {
       "date": "2024-08-06",
-      "paid_price": 1593.576
+      "paid_price": 1770.8639999999998
     },
     {
       "date": "2024-08-07",
-      "paid_price": 1414.728
+      "paid_price": 1636.4399999999998
     },
     {
       "date": "2024-08-08",
-      "paid_price": 20007.576
+      "paid_price": 19713.576
     },
     {
       "date": "2024-08-09",
-      "paid_price": 13951.392
+      "paid_price": 10529.892
     },
     {
       "date": "2024-08-10",
-      "paid_price": 1925.916
+      "paid_price": 1874.6159999999998
     },
     {
       "date": "2024-08-11",
-      "paid_price": 7594.464000000001
+      "paid_price": 37440.864
     },
     {
       "date": "2024-08-12",
-      "paid_price": 11224.368
+      "paid_price": 11301.768
     },
     {
       "date": "2024-08-13",
-      "paid_price": 17952.6
+      "paid_price": 9288.9
     },
     {
       "date": "2024-08-14",
-      "paid_price": 1045.152
+      "paid_price": 1121.664
     },
     {
       "date": "2024-08-15",
-      "paid_price": 25922.340000000004
+      "paid_price": 21096.539999999997
     },
     {
       "date": "2024-08-16",
-      "paid_price": 14272.2
+      "paid_price": 14426.388
     },
     {
       "date": "2024-08-17",
-      "paid_price": 24665.7
+      "paid_price": 24370.2
     },
     {
       "date": "2024-08-18",
-      "paid_price": 32120.388
+      "paid_price": 32280.564000000002
     },
     {
       "date": "2024-08-19",
-      "paid_price": 1053.2759999999998
+      "paid_price": 1318.4879999999998
     },
     {
       "date": "2024-08-20",
-      "paid_price": 9609.588
+      "paid_price": 3574.788
     },
     {
       "date": "2024-08-21",
-      "paid_price": 21682.488
+      "paid_price": 18285.288
     },
     {
       "date": "2024-08-22",
-      "paid_price": 15513.876
+      "paid_price": 15470.676
     },
     {
       "date": "2024-08-23",
-      "paid_price": 1425.576
+      "paid_price": 1327.488
     },
     {
       "date": "2024-08-24",
-      "paid_price": 40488.576
+      "paid_price": 48072.576
     },
     {
       "date": "2024-08-25",
-      "paid_price": 17981.376
+      "paid_price": 17858.376
     },
     {
       "date": "2024-08-26",
-      "paid_price": 7419.575999999999
+      "paid_price": 14549.063999999998
     },
     {
       "date": "2024-08-27",
-      "paid_price": 21867.9
+      "paid_price": 22050.0
     },
     {
       "date": "2024-08-28",
-      "paid_price": 17190.239999999998
+      "paid_price": 10320.24
     },
     {
       "date": "2024-08-29",
-      "paid_price": 50990.916
+      "paid_price": 42681.816
     },
     {
       "date": "2024-08-30",
-      "paid_price": 17359.464
+      "paid_price": 18332.928
     },
     {
       "date": "2024-08-31",
-      "paid_price": 21685.104
+      "paid_price": 21708.204
     },
     {
       "date": "2024-09-01",
-      "paid_price": 9881.688
+      "paid_price": 9732.0
     },
     {
       "date": "2024-09-02",
-      "paid_price": 22268.04
+      "paid_price": 22324.428
     },
     {
       "date": "2024-09-03",
-      "paid_price": 18965.052
+      "paid_price": 4594.152
     },
     {
       "date": "2024-09-04",
-      "paid_price": 17612.028000000002
+      "paid_price": 10567.128
     },
     {
       "date": "2024-09-05",
-      "paid_price": 30486.54
+      "paid_price": 21906.54
     },
     {
       "date": "2024-09-06",
-      "paid_price": 16903.188000000002
+      "paid_price": 39170.7
     },
     {
       "date": "2024-09-07",
-      "paid_price": 22375.176
+      "paid_price": 22572.0
     },
     {
       "date": "2024-09-08",
-      "paid_price": 1676.04
+      "paid_price": 11310.588
     },
     {
       "date": "2024-09-09",
-      "paid_price": 30036.888
+      "paid_price": 33265.788
     },
     {
       "date": "2024-09-10",
-      "paid_price": 9384.564
+      "paid_price": 9741.851999999999
     },
     {
       "date": "2024-09-11",
-      "paid_price": 15342.54
+      "paid_price": 15419.052
     },
     {
       "date": "2024-09-12",
-      "paid_price": 35550.54
+      "paid_price": 56241.864
     },
     {
       "date": "2024-09-13",
-      "paid_price": 1457.3519999999999
+      "paid_price": 2129.268
     },
     {
       "date": "2024-09-14",
-      "paid_price": 11069.4
+      "paid_price": 20013.888
     },
     {
       "date": "2024-09-15",
-      "paid_price": 34977.587999999996
+      "paid_price": 38781.888
     },
     {
       "date": "2024-09-16",
-      "paid_price": 20647.5
+      "paid_price": 20623.488
     },
     {
       "date": "2024-09-17",
-      "paid_price": 11874.252
+      "paid_price": 11573.351999999999
     },
     {
       "date": "2024-09-18",
-      "paid_price": 10531.140000000001
+      "paid_price": 10437.851999999999
     },
     {
       "date": "2024-09-19",
-      "paid_price": 1437.792
+      "paid_price": 3567.48
     },
     {
       "date": "2024-09-20",
-      "paid_price": 6340.188
+      "paid_price": 6347.088
     },
     {
       "date": "2024-09-21",
-      "paid_price": 17319.252
+      "paid_price": 17423.352
     },
     {
       "date": "2024-09-22",
-      "paid_price": 16781.7
+      "paid_price": 16918.487999999998
     },
     {
       "date": "2024-09-23",
-      "paid_price": 9697.091999999999
+      "paid_price": 13066.403999999999
     },
     {
       "date": "2024-09-24",
-      "paid_price": 15968.568
+      "paid_price": 15792.792000000001
     },
     {
       "date": "2024-09-25",
-      "paid_price": 21401.604
+      "paid_price": 21677.604
     },
     {
       "date": "2024-09-26",
-      "paid_price": 1962.144
+      "paid_price": 1998.444
     },
     {
       "date": "2024-09-27",
-      "paid_price": 8039.04
+      "paid_price": 7873.74
     },
     {
       "date": "2024-09-28",
-      "paid_price": 7432.428
+      "paid_price": 7259.328
     },
     {
       "date": "2024-09-29",
-      "paid_price": 4722.576
+      "paid_price": 10922.364
     },
     {
       "date": "2024-09-30",
-      "paid_price": 12537.276
+      "paid_price": 12542.676
     },
     {
       "date": "2024-10-01",
-      "paid_price": 10736.916000000001
+      "paid_price": 6360.816
     },
     {
       "date": "2024-10-02",
-      "paid_price": 5621.976
+      "paid_price": 1183.176
     },
     {
       "date": "2024-10-03",
-      "paid_price": 10673.94
+      "paid_price": 16988.34
     },
     {
       "date": "2024-10-04",
-      "paid_price": 35156.04
+      "paid_price": 18754.128
     },
     {
       "date": "2024-10-05",
-      "paid_price": 22900.739999999998
+      "paid_price": 14779.116
     },
     {
       "date": "2024-10-06",
-      "paid_price": 8389.787999999999
+      "paid_price": 5776.788
     },
     {
       "date": "2024-10-07",
-      "paid_price": 20972.952
+      "paid_price": 15098.928
     },
     {
       "date": "2024-10-08",
-      "paid_price": 12832.752
+      "paid_price": 12836.376
     },
     {
       "date": "2024-10-09",
-      "paid_price": 15185.688
+      "paid_price": 32025.539999999997
     },
     {
       "date": "2024-10-10",
-      "paid_price": 2069.04
+      "paid_price": 1950.228
     },
     {
       "date": "2024-10-11",
-      "paid_price": 29031.288
+      "paid_price": 29457.852
     },
     {
       "date": "2024-10-12",
-      "paid_price": 6331.188
+      "paid_price": 4483.764
     },
     {
       "date": "2024-10-13",
-      "paid_price": 10426.764
+      "paid_price": 18896.064000000002
     },
     {
       "date": "2024-10-14",
-      "paid_price": 26835.252
+      "paid_price": 32764.752
     },
     {
       "date": "2024-10-15",
-      "paid_price": 27465.863999999998
+      "paid_price": 27432.264
     },
     {
       "date": "2024-10-16",
-      "paid_price": 19254.588
+      "paid_price": 19360.188
     },
     {
       "date": "2024-10-17",
-      "paid_price": 25478.076
+      "paid_price": 18281.964
     },
     {
       "date": "2024-10-18",
-      "paid_price": 3834.888
+      "paid_price": 4055.952
     },
     {
       "date": "2024-10-19",
-      "paid_price": 23671.728
+      "paid_price": 9768.528
     },
     {
       "date": "2024-10-20",
-      "paid_price": 14044.392
+      "paid_price": 14417.604
     },
     {
       "date": "2024-10-21",
-      "paid_price": 5661.576
+      "paid_price": 5551.776
     },
     {
       "date": "2024-10-22",
-      "paid_price": 8053.188
+      "paid_price": 8246.351999999999
     },
     {
       "date": "2024-10-23",
-      "paid_price": 37337.952
+      "paid_price": 31327.152
     },
     {
       "date": "2024-10-24",
-      "paid_price": 23492.039999999997
+      "paid_price": 23618.34
     },
     {
       "date": "2024-10-25",
-      "paid_price": 8856.864
+      "paid_price": 9159.528
     },
     {
       "date": "2024-10-26",
-      "paid_price": 17065.32
+      "paid_price": 2839.8959999999997
     },
     {
       "date": "2024-10-27",
-      "paid_price": 2394.564
+      "paid_price": 2520.264
     },
     {
       "date": "2024-10-28",
-      "paid_price": 21225.264000000003
+      "paid_price": 39809.352
     },
     {
       "date": "2024-10-29",
-      "paid_price": 1715.988
+      "paid_price": 2133.852
     },
     {
       "date": "2024-10-30",
-      "paid_price": 31593.288
+      "paid_price": 26171.388
     },
     {
       "date": "2024-10-31",
-      "paid_price": 7399.656000000001
+      "paid_price": 7164.456
     },
     {
       "date": "2024-11-01",
-      "paid_price": 24278.976
+      "paid_price": 25523.064
     },
     {
       "date": "2024-11-02",
-      "paid_price": 54667.752
+      "paid_price": 42468.227999999996
     },
     {
       "date": "2024-11-03",
-      "paid_price": 44411.58
+      "paid_price": 42040.08
     },
     {
       "date": "2024-11-04",
-      "paid_price": 50289.791999999994
+      "paid_price": 25452.215999999997
     },
     {
       "date": "2024-11-05",
-      "paid_price": 7927.092
+      "paid_price": 7874.316
     },
     {
       "date": "2024-11-06",
-      "paid_price": 4271.964
+      "paid_price": 2298.564
     },
     {
       "date": "2024-11-07",
-      "paid_price": 28433.327999999998
+      "paid_price": 28730.327999999998
     },
     {
       "date": "2024-11-08",
-      "paid_price": 20826.539999999997
+      "paid_price": 20519.328
     },
     {
       "date": "2024-11-09",
-      "paid_price": 1917.864
+      "paid_price": 2429.04
     },
     {
       "date": "2024-11-10",
-      "paid_price": 2577.8399999999997
+      "paid_price": 2455.4519999999998
     },
     {
       "date": "2024-11-11",
-      "paid_price": 39704.94
+      "paid_price": 40813.44
     },
     {
       "date": "2024-11-12",
-      "paid_price": 34166.664
+      "paid_price": 24637.176
     },
     {
       "date": "2024-11-13",
-      "paid_price": 7055.639999999999
+      "paid_price": 6940.428
     },
     {
       "date": "2024-11-14",
-      "paid_price": 6359.376
+      "paid_price": 6384.8640000000005
     },
     {
       "date": "2024-11-15",
-      "paid_price": 78890.316
+      "paid_price": 70257.216
     },
     {
       "date": "2024-11-16",
-      "paid_price": 5219.388
+      "paid_price": 6958.463999999999
     },
     {
       "date": "2024-11-17",
-      "paid_price": 15031.176
+      "paid_price": 34825.452000000005
     },
     {
       "date": "2024-11-18",
-      "paid_price": 32686.752
+      "paid_price": 36003.876
     },
     {
       "date": "2024-11-19",
-      "paid_price": 6354.84
+      "paid_price": 6692.34
     },
     {
       "date": "2024-11-20",
-      "paid_price": 17186.976
+      "paid_price": 17304.552
     },
     {
       "date": "2024-11-21",
-      "paid_price": 10992.828
+      "paid_price": 30559.128
     },
     {
       "date": "2024-11-22",
-      "paid_price": 1262.628
+      "paid_price": 1394.616
     },
     {
       "date": "2024-11-23",
-      "paid_price": 2946.6
+      "paid_price": 3202.2
     },
     {
       "date": "2024-11-24",
-      "paid_price": 24348.888
+      "paid_price": 17494.464
     },
     {
       "date": "2024-11-25",
-      "paid_price": 1005.276
+      "paid_price": 1382.364
     },
     {
       "date": "2024-11-26",
@@ -1231,687 +1228,687 @@
     },
     {
       "date": "2024-11-27",
-      "paid_price": 16308.887999999999
+      "paid_price": 16347.288
     },
     {
       "date": "2024-11-28",
-      "paid_price": 10355.988
+      "paid_price": 15675.287999999999
     },
     {
       "date": "2024-11-29",
-      "paid_price": 63939.6
+      "paid_price": 45453.551999999996
     },
     {
       "date": "2024-11-30",
-      "paid_price": 1865.952
+      "paid_price": 4040.3639999999996
     },
     {
       "date": "2024-12-01",
-      "paid_price": 21025.104
+      "paid_price": 21466.428
     },
     {
       "date": "2024-12-02",
-      "paid_price": 21338.052
+      "paid_price": 26490.564
     },
     {
       "date": "2024-12-03",
-      "paid_price": 13567.2
+      "paid_price": 13862.688
     },
     {
       "date": "2024-12-04",
-      "paid_price": 20013.852
+      "paid_price": 21469.464
     },
     {
       "date": "2024-12-05",
-      "paid_price": 1561.356
+      "paid_price": 4087.3559999999998
     },
     {
       "date": "2024-12-06",
-      "paid_price": 1953.3
+      "paid_price": 2597.388
     },
     {
       "date": "2024-12-07",
-      "paid_price": 10470.564
+      "paid_price": 11044.164
     },
     {
       "date": "2024-12-08",
-      "paid_price": 2172.0
+      "paid_price": 5198.964
     },
     {
       "date": "2024-12-09",
-      "paid_price": 26673.0
+      "paid_price": 22947.899999999998
     },
     {
       "date": "2024-12-10",
-      "paid_price": 53765.088
+      "paid_price": 61374.276000000005
     },
     {
       "date": "2024-12-11",
-      "paid_price": 18595.464
+      "paid_price": 25610.663999999997
     },
     {
       "date": "2024-12-12",
-      "paid_price": 26580.876
+      "paid_price": 26717.376
     },
     {
       "date": "2024-12-13",
-      "paid_price": 5066.075999999999
+      "paid_price": 5099.6759999999995
     },
     {
       "date": "2024-12-14",
-      "paid_price": 20238.84
+      "paid_price": 12719.076000000001
     },
     {
       "date": "2024-12-15",
-      "paid_price": 38252.004
+      "paid_price": 20033.028000000002
     },
     {
       "date": "2024-12-16",
-      "paid_price": 1776.264
+      "paid_price": 1630.464
     },
     {
       "date": "2024-12-17",
-      "paid_price": 11015.952
+      "paid_price": 34682.051999999996
     },
     {
       "date": "2024-12-18",
-      "paid_price": 13995.564
+      "paid_price": 13902.252
     },
     {
       "date": "2024-12-19",
-      "paid_price": 10367.076
+      "paid_price": 15072.203999999998
     },
     {
       "date": "2024-12-20",
-      "paid_price": 9944.928
+      "paid_price": 10544.627999999999
     },
     {
       "date": "2024-12-21",
-      "paid_price": 4507.956
+      "paid_price": 4503.744
     },
     {
       "date": "2024-12-22",
-      "paid_price": 18545.064
+      "paid_price": 39648.264
     },
     {
       "date": "2024-12-23",
-      "paid_price": 25811.039999999997
+      "paid_price": 23537.34
     },
     {
       "date": "2024-12-24",
-      "paid_price": 47009.952
+      "paid_price": 14060.352
     },
     {
       "date": "2024-12-25",
-      "paid_price": 3197.652
+      "paid_price": 3278.652
     },
     {
       "date": "2024-12-26",
-      "paid_price": 12242.868
+      "paid_price": 12529.368
     },
     {
       "date": "2024-12-27",
-      "paid_price": 12141.288
+      "paid_price": 27929.088
     },
     {
       "date": "2024-12-28",
-      "paid_price": 13393.152
+      "paid_price": 31323.552
     },
     {
       "date": "2024-12-29",
-      "paid_price": 7657.116
+      "paid_price": 39807.204
     },
     {
       "date": "2024-12-30",
-      "paid_price": 8465.616
+      "paid_price": 8379.516
     },
     {
       "date": "2024-12-31",
-      "paid_price": 22369.152
+      "paid_price": 22351.092
     },
     {
       "date": "2025-01-01",
-      "paid_price": 8627.7
+      "paid_price": 8439.6
     },
     {
       "date": "2025-01-02",
-      "paid_price": 19578.264
+      "paid_price": 17295.864
     },
     {
       "date": "2025-01-03",
-      "paid_price": 4481.988
+      "paid_price": 4430.4
     },
     {
       "date": "2025-01-04",
-      "paid_price": 2028.24
+      "paid_price": 2217.528
     },
     {
       "date": "2025-01-05",
-      "paid_price": 4920.864
+      "paid_price": 6284.364
     },
     {
       "date": "2025-01-06",
-      "paid_price": 12270.168
+      "paid_price": 7255.68
     },
     {
       "date": "2025-01-07",
-      "paid_price": 30250.715999999997
+      "paid_price": 45215.028
     },
     {
       "date": "2025-01-08",
-      "paid_price": 33959.676
+      "paid_price": 30525.864
     },
     {
       "date": "2025-01-09",
-      "paid_price": 19762.728
+      "paid_price": 20107.704
     },
     {
       "date": "2025-01-10",
-      "paid_price": 11003.939999999999
+      "paid_price": 11178.24
     },
     {
       "date": "2025-01-11",
-      "paid_price": 37554.263999999996
+      "paid_price": 37775.976
     },
     {
       "date": "2025-01-12",
-      "paid_price": 14465.088
+      "paid_price": 14478.888
     },
     {
       "date": "2025-01-13",
-      "paid_price": 10256.028
+      "paid_price": 35887.992
     },
     {
       "date": "2025-01-14",
-      "paid_price": 12554.975999999999
+      "paid_price": 12490.464
     },
     {
       "date": "2025-01-15",
-      "paid_price": 7817.652000000001
+      "paid_price": 7703.352000000001
     },
     {
       "date": "2025-01-16",
-      "paid_price": 7034.9039999999995
+      "paid_price": 7252.992
     },
     {
       "date": "2025-01-17",
-      "paid_price": 32446.128
+      "paid_price": 27698.928
     },
     {
       "date": "2025-01-18",
-      "paid_price": 5134.7519999999995
+      "paid_price": 5105.052
     },
     {
       "date": "2025-01-19",
-      "paid_price": 3110.064
+      "paid_price": 2917.176
     },
     {
       "date": "2025-01-20",
-      "paid_price": 10706.916
+      "paid_price": 3308.5679999999998
     },
     {
       "date": "2025-01-21",
-      "paid_price": 10320.828
+      "paid_price": 10170.84
     },
     {
       "date": "2025-01-22",
-      "paid_price": 7290.252
+      "paid_price": 7372.152
     },
     {
       "date": "2025-01-23",
-      "paid_price": 22412.064
+      "paid_price": 22782.852
     },
     {
       "date": "2025-01-24",
-      "paid_price": 30298.164
+      "paid_price": 36926.964
     },
     {
       "date": "2025-01-25",
-      "paid_price": 49657.74
+      "paid_price": 41108.328
     },
     {
       "date": "2025-01-26",
-      "paid_price": 10343.039999999999
+      "paid_price": 16875.54
     },
     {
       "date": "2025-01-27",
-      "paid_price": 19549.775999999998
+      "paid_price": 15274.464
     },
     {
       "date": "2025-01-28",
-      "paid_price": 14144.880000000001
+      "paid_price": 2114.016
     },
     {
       "date": "2025-01-29",
-      "paid_price": 35918.856
+      "paid_price": 35664.432
     },
     {
       "date": "2025-01-30",
-      "paid_price": 43158.6
+      "paid_price": 43390.5
     },
     {
       "date": "2025-01-31",
-      "paid_price": 24860.952
+      "paid_price": 18229.44
     },
     {
       "date": "2025-02-01",
-      "paid_price": 23703.78
+      "paid_price": 32925.804000000004
     },
     {
       "date": "2025-02-02",
-      "paid_price": 5601.828
+      "paid_price": 6024.516
     },
     {
       "date": "2025-02-03",
-      "paid_price": 10906.452000000001
+      "paid_price": 11014.152
     },
     {
       "date": "2025-02-04",
-      "paid_price": 1276.44
+      "paid_price": 1090.44
     },
     {
       "date": "2025-02-05",
-      "paid_price": 10613.328
+      "paid_price": 10739.952
     },
     {
       "date": "2025-02-06",
-      "paid_price": 16568.376
+      "paid_price": 16676.676
     },
     {
       "date": "2025-02-07",
-      "paid_price": 7811.688
+      "paid_price": 1313.9879999999998
     },
     {
       "date": "2025-02-08",
-      "paid_price": 14797.704
+      "paid_price": 15460.704
     },
     {
       "date": "2025-02-09",
-      "paid_price": 17249.916
+      "paid_price": 16945.464
     },
     {
       "date": "2025-02-10",
-      "paid_price": 8571.876
+      "paid_price": 8066.376
     },
     {
       "date": "2025-02-11",
-      "paid_price": 1583.04
+      "paid_price": 1699.752
     },
     {
       "date": "2025-02-12",
-      "paid_price": 42374.388000000006
+      "paid_price": 42556.788
     },
     {
       "date": "2025-02-13",
-      "paid_price": 17732.7
+      "paid_price": 18045.888
     },
     {
       "date": "2025-02-14",
-      "paid_price": 7402.764
+      "paid_price": 7535.364
     },
     {
       "date": "2025-02-15",
-      "paid_price": 5049.516
+      "paid_price": 5068.092
     },
     {
       "date": "2025-02-16",
-      "paid_price": 6637.764
+      "paid_price": 6327.8640000000005
     },
     {
       "date": "2025-02-17",
-      "paid_price": 1648.452
+      "paid_price": 1557.288
     },
     {
       "date": "2025-02-18",
-      "paid_price": 11274.792
+      "paid_price": 1728.7559999999999
     },
     {
       "date": "2025-02-19",
-      "paid_price": 35129.388
+      "paid_price": 35036.988
     },
     {
       "date": "2025-02-20",
-      "paid_price": 16571.94
+      "paid_price": 13362.588
     },
     {
       "date": "2025-02-21",
-      "paid_price": 11444.088
+      "paid_price": 11390.688
     },
     {
       "date": "2025-02-22",
-      "paid_price": 16220.676
+      "paid_price": 21914.988
     },
     {
       "date": "2025-02-23",
-      "paid_price": 38745.888
+      "paid_price": 28946.388000000003
     },
     {
       "date": "2025-02-24",
-      "paid_price": 27834.287999999997
+      "paid_price": 25709.052
     },
     {
       "date": "2025-02-25",
-      "paid_price": 23833.8
+      "paid_price": 1553.664
     },
     {
       "date": "2025-02-26",
-      "paid_price": 9657.264
+      "paid_price": 9721.163999999999
     },
     {
       "date": "2025-02-27",
-      "paid_price": 17861.352
+      "paid_price": 18140.82
     },
     {
       "date": "2025-02-28",
-      "paid_price": 29129.676
+      "paid_price": 29175.275999999998
     },
     {
       "date": "2025-03-01",
-      "paid_price": 9704.676
+      "paid_price": 9633.576000000001
     },
     {
       "date": "2025-03-02",
-      "paid_price": 6768.888
+      "paid_price": 7255.464
     },
     {
       "date": "2025-03-03",
-      "paid_price": 857.088
+      "paid_price": 915.5759999999999
     },
     {
       "date": "2025-03-04",
-      "paid_price": 25391.688
+      "paid_price": 19865.988
     },
     {
       "date": "2025-03-05",
-      "paid_price": 8081.1
+      "paid_price": 11405.699999999999
     },
     {
       "date": "2025-03-06",
-      "paid_price": 6988.14
+      "paid_price": 7098.9
     },
     {
       "date": "2025-03-07",
-      "paid_price": 8047.404
+      "paid_price": 5301.816
     },
     {
       "date": "2025-03-08",
-      "paid_price": 4686.2880000000005
+      "paid_price": 5406.876
     },
     {
       "date": "2025-03-09",
-      "paid_price": 1506.2759999999998
+      "paid_price": 1748.676
     },
     {
       "date": "2025-03-10",
-      "paid_price": 25011.216
+      "paid_price": 25111.404
     },
     {
       "date": "2025-03-11",
-      "paid_price": 16490.352
+      "paid_price": 22936.752
     },
     {
       "date": "2025-03-12",
-      "paid_price": 1743.0
+      "paid_price": 1620.0
     },
     {
       "date": "2025-03-13",
-      "paid_price": 15605.088
+      "paid_price": 16040.387999999999
     },
     {
       "date": "2025-03-14",
-      "paid_price": 1791.288
+      "paid_price": 1736.676
     },
     {
       "date": "2025-03-15",
-      "paid_price": 1076.6879999999999
+      "paid_price": 19868.1
     },
     {
       "date": "2025-03-16",
-      "paid_price": 6183.9
+      "paid_price": 6096.900000000001
     },
     {
       "date": "2025-03-17",
-      "paid_price": 1196.628
+      "paid_price": 1142.076
     },
     {
       "date": "2025-03-18",
-      "paid_price": 687.9
+      "paid_price": 822.9
     },
     {
       "date": "2025-03-19",
-      "paid_price": 1734.204
+      "paid_price": 1875.792
     },
     {
       "date": "2025-03-20",
-      "paid_price": 6822.563999999999
+      "paid_price": 2173.464
     },
     {
       "date": "2025-03-21",
-      "paid_price": 42148.776
+      "paid_price": 37024.164
     },
     {
       "date": "2025-03-22",
-      "paid_price": 17429.976000000002
+      "paid_price": 848.976
     },
     {
       "date": "2025-03-23",
-      "paid_price": 25469.964
+      "paid_price": 17709.264
     },
     {
       "date": "2025-03-24",
-      "paid_price": 14462.339999999998
+      "paid_price": 22986.228000000003
     },
     {
       "date": "2025-03-25",
-      "paid_price": 6840.575999999999
+      "paid_price": 19765.164
     },
     {
       "date": "2025-03-26",
-      "paid_price": 8852.388
+      "paid_price": 4648.188
     },
     {
       "date": "2025-03-27",
-      "paid_price": 32843.1
+      "paid_price": 33179.7
     },
     {
       "date": "2025-03-28",
-      "paid_price": 1603.1039999999998
+      "paid_price": 1658.5919999999999
     },
     {
       "date": "2025-03-29",
-      "paid_price": 3816.2639999999997
+      "paid_price": 3794.9519999999993
     },
     {
       "date": "2025-03-30",
-      "paid_price": 922.752
+      "paid_price": 941.952
     },
     {
       "date": "2025-03-31",
-      "paid_price": 6501.539999999999
+      "paid_price": 6493.44
     },
     {
       "date": "2025-04-01",
-      "paid_price": 5936.952
+      "paid_price": 6094.764
     },
     {
       "date": "2025-04-02",
-      "paid_price": 15564.864
+      "paid_price": 15632.988
     },
     {
       "date": "2025-04-03",
-      "paid_price": 13815.204
+      "paid_price": 13874.004
     },
     {
       "date": "2025-04-04",
-      "paid_price": 3284.9880000000003
+      "paid_price": 3229.8
     },
     {
       "date": "2025-04-05",
-      "paid_price": 36800.076
+      "paid_price": 30129.575999999997
     },
     {
       "date": "2025-04-06",
-      "paid_price": 17286.888
+      "paid_price": 17572.788
     },
     {
       "date": "2025-04-07",
-      "paid_price": 38036.1
+      "paid_price": 38258.976
     },
     {
       "date": "2025-04-08",
-      "paid_price": 11435.688
+      "paid_price": 11732.088
     },
     {
       "date": "2025-04-09",
-      "paid_price": 1289.088
+      "paid_price": 1188.588
     },
     {
       "date": "2025-04-10",
-      "paid_price": 8500.5
+      "paid_price": 8721.0
     },
     {
       "date": "2025-04-11",
-      "paid_price": 13879.475999999999
+      "paid_price": 1494.2759999999998
     },
     {
       "date": "2025-04-12",
-      "paid_price": 17270.388
+      "paid_price": 17485.776
     },
     {
       "date": "2025-04-13",
-      "paid_price": 1714.416
+      "paid_price": 2179.4159999999997
     },
     {
       "date": "2025-04-14",
-      "paid_price": 4682.7
+      "paid_price": 1262.7
     },
     {
       "date": "2025-04-15",
-      "paid_price": 752.6759999999999
+      "paid_price": 3602.676
     },
     {
       "date": "2025-04-16",
-      "paid_price": 972.5999999999999
+      "paid_price": 872.4
     },
     {
       "date": "2025-04-17",
-      "paid_price": 62953.752
+      "paid_price": 41870.352
     },
     {
       "date": "2025-04-18",
-      "paid_price": 1094.088
+      "paid_price": 17924.676
     },
     {
       "date": "2025-04-19",
-      "paid_price": 12171.875999999998
+      "paid_price": 12262.475999999999
     },
     {
       "date": "2025-04-20",
-      "paid_price": 1368.264
+      "paid_price": 1325.628
     },
     {
       "date": "2025-04-21",
-      "paid_price": 16574.388
+      "paid_price": 16650.888
     },
     {
       "date": "2025-04-22",
-      "paid_price": 19616.964
+      "paid_price": 19598.664
     },
     {
       "date": "2025-04-23",
-      "paid_price": 9195.876
+      "paid_price": 21432.863999999998
     },
     {
       "date": "2025-04-24",
-      "paid_price": 9223.74
+      "paid_price": 22042.44
     },
     {
       "date": "2025-04-25",
-      "paid_price": 9668.064
+      "paid_price": 10099.776
     },
     {
       "date": "2025-04-26",
-      "paid_price": 21060.84
+      "paid_price": 22909.104
     },
     {
       "date": "2025-04-27",
-      "paid_price": 633.3
+      "paid_price": 755.6999999999999
     },
     {
       "date": "2025-04-28",
-      "paid_price": 6005.088000000001
+      "paid_price": 6048.876
     },
     {
       "date": "2025-04-29",
-      "paid_price": 941.6999999999999
+      "paid_price": 14039.4
     },
     {
       "date": "2025-04-30",
-      "paid_price": 8833.163999999999
+      "paid_price": 9222.864
     },
     {
       "date": "2025-05-01",
-      "paid_price": 18536.664
+      "paid_price": 678.264
     },
     {
       "date": "2025-05-02",
-      "paid_price": 6703.2
+      "paid_price": 14902.188
     },
     {
       "date": "2025-05-03",
-      "paid_price": 5163.588
+      "paid_price": 5318.388
     },
     {
       "date": "2025-05-04",
-      "paid_price": 542.088
+      "paid_price": 580.4879999999999
     },
     {
       "date": "2025-05-05",
-      "paid_price": 11138.964
+      "paid_price": 19561.14
     },
     {
       "date": "2025-05-06",
-      "paid_price": 25858.716
+      "paid_price": 25943.628
     },
     {
       "date": "2025-05-07",
-      "paid_price": 9081.3
+      "paid_price": 6057.0
     },
     {
       "date": "2025-05-08",
-      "paid_price": 284.688
+      "paid_price": 532.188
     },
     {
       "date": "2025-05-09",
-      "paid_price": 7495.188
+      "paid_price": 7740.288
     },
     {
       "date": "2025-05-10",
-      "paid_price": 5462.988
+      "paid_price": 5660.964
     },
     {
       "date": "2025-05-11",
-      "paid_price": 816.204
+      "paid_price": 8879.904
     },
     {
       "date": "2025-05-12",
-      "paid_price": 25878.3
+      "paid_price": 25831.800000000003
     },
     {
       "date": "2025-05-13",
-      "paid_price": 10656.864
+      "paid_price": 10638.276
     },
     {
       "date": "2025-05-14",
-      "paid_price": 13645.476
+      "paid_price": 4603.488
     },
     {
       "date": "2025-05-15",
-      "paid_price": 1532.1
+      "paid_price": 1450.2
     },
     {
       "date": "2025-05-16",
-      "paid_price": 8187.900000000001
+      "paid_price": 8323.5
     },
     {
       "date": "2025-05-17",
@@ -1919,135 +1916,135 @@
     },
     {
       "date": "2025-05-18",
-      "paid_price": 1119.2759999999998
+      "paid_price": 751.1759999999999
     },
     {
       "date": "2025-05-19",
-      "paid_price": 26718.552000000003
+      "paid_price": 26937.252
     },
     {
       "date": "2025-05-20",
-      "paid_price": 7480.488
+      "paid_price": 7724.352
     },
     {
       "date": "2025-05-21",
-      "paid_price": 34461.6
+      "paid_price": 34377.3
     },
     {
       "date": "2025-05-22",
-      "paid_price": 1121.028
+      "paid_price": 974.9639999999999
     },
     {
       "date": "2025-05-23",
-      "paid_price": 866.9159999999999
+      "paid_price": 878.9159999999999
     },
     {
       "date": "2025-05-24",
-      "paid_price": 9317.316
+      "paid_price": 25359.276
     },
     {
       "date": "2025-05-25",
-      "paid_price": 347.1
+      "paid_price": 739.14
     },
     {
       "date": "2025-05-26",
-      "paid_price": 11412.288
+      "paid_price": 17381.688
     },
     {
       "date": "2025-05-27",
-      "paid_price": 1930.128
+      "paid_price": 2037.2279999999998
     },
     {
       "date": "2025-05-28",
-      "paid_price": 19319.928
+      "paid_price": 19336.128
     },
     {
       "date": "2025-05-29",
-      "paid_price": 8761.8
+      "paid_price": 8928.0
     },
     {
       "date": "2025-05-30",
-      "paid_price": 4462.776
+      "paid_price": 6292.776
     },
     {
       "date": "2025-05-31",
-      "paid_price": 680.9639999999999
+      "paid_price": 3058.764
     },
     {
       "date": "2025-06-01",
-      "paid_price": 269.38800000000003
+      "paid_price": 443.088
     },
     {
       "date": "2025-06-02",
-      "paid_price": 548.976
+      "paid_price": 601.1759999999999
     },
     {
       "date": "2025-06-03",
-      "paid_price": 508.488
+      "paid_price": 695.688
     },
     {
       "date": "2025-06-04",
-      "paid_price": 8351.688
+      "paid_price": 8486.387999999999
     },
     {
       "date": "2025-06-05",
-      "paid_price": 1056.876
+      "paid_price": 531.588
     },
     {
       "date": "2025-06-06",
-      "paid_price": 978.288
+      "paid_price": 938.6999999999999
     },
     {
       "date": "2025-06-07",
-      "paid_price": 7542.888
+      "paid_price": 7647.2880000000005
     },
     {
       "date": "2025-06-08",
-      "paid_price": 13164.576000000001
+      "paid_price": 13233.588
     },
     {
       "date": "2025-06-09",
-      "paid_price": 998.088
+      "paid_price": 764.688
     },
     {
       "date": "2025-06-10",
-      "paid_price": 320.688
+      "paid_price": 423.888
     },
     {
       "date": "2025-06-11",
-      "paid_price": 16657.2
+      "paid_price": 10522.8
     },
     {
       "date": "2025-06-12",
-      "paid_price": 225.288
+      "paid_price": 154.188
     },
     {
       "date": "2025-06-13",
-      "paid_price": 8540.076000000001
+      "paid_price": 13760.076000000001
     },
     {
       "date": "2025-06-14",
-      "paid_price": 472.19999999999993
+      "paid_price": 334.8
     },
     {
       "date": "2025-06-15",
-      "paid_price": 2641.5
+      "paid_price": 2585.388
     },
     {
       "date": "2025-06-16",
-      "paid_price": 394.788
+      "paid_price": 462.288
     },
     {
       "date": "2025-06-17",
-      "paid_price": 166.8
+      "paid_price": 96.0
     },
     {
       "date": "2025-06-18",
-      "paid_price": 4562.388
+      "paid_price": 4486.487999999999
     },
     {
       "date": "2025-06-19",
-      "paid_price": 806.3639999999999
+      "paid_price": 1007.064
     },
     {
       "date": "2025-06-20",
@@ -2055,47 +2052,47 @@
     },
     {
       "date": "2025-06-21",
-      "paid_price": 12104.052
+      "paid_price": 3916.452
     },
     {
       "date": "2025-06-22",
-      "paid_price": 20997.6
+      "paid_price": 21166.764
     },
     {
       "date": "2025-06-23",
-      "paid_price": 11471.364
+      "paid_price": 11403.0
     },
     {
       "date": "2025-06-24",
-      "paid_price": 812.076
+      "paid_price": 1294.764
     },
     {
       "date": "2025-06-25",
-      "paid_price": 12747.0
+      "paid_price": 13180.788
     },
     {
       "date": "2025-06-26",
-      "paid_price": 679.8
+      "paid_price": 737.6999999999999
     },
     {
       "date": "2025-06-27",
-      "paid_price": 3692.1
+      "paid_price": 3732.6
     },
     {
       "date": "2025-06-28",
-      "paid_price": 420.9
+      "paid_price": 314.7
     },
     {
       "date": "2025-06-29",
-      "paid_price": 327.9
+      "paid_price": 620.4
     },
     {
       "date": "2025-06-30",
-      "paid_price": 500.4
+      "paid_price": 602.4
     },
     {
       "date": "2025-07-01",
-      "paid_price": 666.288
+      "paid_price": 708.276
     },
     {
       "date": "2025-07-02",
@@ -2103,7 +2100,7 @@
     },
     {
       "date": "2025-07-03",
-      "paid_price": 273.53999999999996
+      "paid_price": 225.54
     },
     {
       "date": "2025-07-04",
@@ -2111,27 +2108,27 @@
     },
     {
       "date": "2025-07-05",
-      "paid_price": 567.9
+      "paid_price": 479.7
     },
     {
       "date": "2025-07-06",
-      "paid_price": 312.58799999999997
+      "paid_price": 401.08799999999997
     },
     {
       "date": "2025-07-07",
-      "paid_price": 5650.488
+      "paid_price": 5503.188
     },
     {
       "date": "2025-07-08",
-      "paid_price": 294.9
+      "paid_price": 328.488
     },
     {
       "date": "2025-07-09",
-      "paid_price": 339.0
+      "paid_price": 406.2
     },
     {
       "date": "2025-07-10",
-      "paid_price": 33610.788
+      "paid_price": 33778.74
     },
     {
       "date": "2025-07-11",
@@ -2143,7 +2140,7 @@
     },
     {
       "date": "2025-07-13",
-      "paid_price": 148.2
+      "paid_price": 168.0
     },
     {
       "date": "2025-07-14",
@@ -2154,24 +2151,24 @@
       "paid_price": 615.6
     },
     {
-      "date": "2025-07-16",
-      "paid_price": 51.0
+      "date": "2025-07-17",
+      "paid_price": 4428.900000000001
     },
     {
-      "date": "2025-07-17",
-      "paid_price": 4379.1
+      "date": "2025-07-18",
+      "paid_price": 83.1
     },
     {
       "date": "2025-07-19",
-      "paid_price": 12599.04
+      "paid_price": 12581.351999999999
     },
     {
       "date": "2025-07-20",
-      "paid_price": 291.59999999999997
+      "paid_price": 294.59999999999997
     },
     {
       "date": "2025-07-21",
-      "paid_price": 242.376
+      "paid_price": 233.38799999999998
     },
     {
       "date": "2025-07-22",
@@ -2179,19 +2176,19 @@
     },
     {
       "date": "2025-07-23",
-      "paid_price": 297.29999999999995
+      "paid_price": 356.1
     },
     {
       "date": "2025-07-24",
-      "paid_price": 227.1
+      "paid_price": 940.4639999999999
     },
     {
       "date": "2025-07-25",
-      "paid_price": 579.564
+      "paid_price": 691.764
     },
     {
       "date": "2025-07-26",
-      "paid_price": 394.18799999999993
+      "paid_price": 465.5879999999999
     },
     {
       "date": "2025-07-27",
@@ -2199,15 +2196,15 @@
     },
     {
       "date": "2025-07-28",
-      "paid_price": 258.29999999999995
+      "paid_price": 285.59999999999997
     },
     {
       "date": "2025-07-29",
-      "paid_price": 455.7
+      "paid_price": 415.5
     },
     {
       "date": "2025-07-30",
-      "paid_price": 205.5
+      "paid_price": 151.5
     },
     {
       "date": "2025-07-31",
@@ -2215,7 +2212,7 @@
     },
     {
       "date": "2025-08-01",
-      "paid_price": 18435.6
+      "paid_price": 18432.899999999998
     },
     {
       "date": "2025-08-02",
@@ -2223,19 +2220,19 @@
     },
     {
       "date": "2025-08-03",
-      "paid_price": 77.39999999999999
+      "paid_price": 263.7
     },
     {
       "date": "2025-08-04",
-      "paid_price": 485.37600000000003
+      "paid_price": 466.476
     },
     {
       "date": "2025-08-05",
-      "paid_price": 269.976
+      "paid_price": 312.576
     },
     {
       "date": "2025-08-06",
-      "paid_price": 254.1
+      "paid_price": 228.0
     },
     {
       "date": "2025-08-07",
@@ -2243,11 +2240,11 @@
     },
     {
       "date": "2025-08-08",
-      "paid_price": 162.588
+      "paid_price": 384.564
     },
     {
       "date": "2025-08-09",
-      "paid_price": 141.0
+      "paid_price": 300.59999999999997
     },
     {
       "date": "2025-08-10",
@@ -2255,19 +2252,19 @@
     },
     {
       "date": "2025-08-11",
-      "paid_price": 7918.799999999999
+      "paid_price": 8140.799999999999
     },
     {
       "date": "2025-08-12",
-      "paid_price": 9341.088
+      "paid_price": 9257.988000000001
     },
     {
       "date": "2025-08-13",
-      "paid_price": 170.4
+      "paid_price": 153.0
     },
     {
       "date": "2025-08-14",
-      "paid_price": 169.8
+      "paid_price": 234.6
     },
     {
       "date": "2025-08-15",
@@ -2275,7 +2272,7 @@
     },
     {
       "date": "2025-08-16",
-      "paid_price": 4079.7
+      "paid_price": 4130.1
     },
     {
       "date": "2025-08-17",
@@ -2283,7 +2280,7 @@
     },
     {
       "date": "2025-08-18",
-      "paid_price": 109.19999999999999
+      "paid_price": 153.6
     },
     {
       "date": "2025-08-19",
@@ -2291,11 +2288,11 @@
     },
     {
       "date": "2025-08-20",
-      "paid_price": 115.8
+      "paid_price": 29.4
     },
     {
       "date": "2025-08-21",
-      "paid_price": 132.6
+      "paid_price": 92.99999999999999
     },
     {
       "date": "2025-08-22",
@@ -2307,15 +2304,15 @@
     },
     {
       "date": "2025-08-24",
-      "paid_price": 175.2
+      "paid_price": 384.588
     },
     {
       "date": "2025-08-25",
-      "paid_price": 50.388
+      "paid_price": 7224.888
     },
     {
       "date": "2025-08-26",
-      "paid_price": 24.3
+      "paid_price": 237.9
     },
     {
       "date": "2025-08-27",
@@ -2331,19 +2328,15 @@
     },
     {
       "date": "2025-08-30",
-      "paid_price": 58.8
-    },
-    {
-      "date": "2025-08-31",
-      "paid_price": 85.18799999999999
+      "paid_price": 77.39999999999999
     },
     {
       "date": "2025-09-02",
-      "paid_price": 40419.6
+      "paid_price": 168.0
     },
     {
       "date": "2025-09-03",
-      "paid_price": 1923.6
+      "paid_price": 1650.0
     },
     {
       "date": "2025-09-04",
@@ -2354,16 +2347,12 @@
       "paid_price": 59.099999999999994
     },
     {
-      "date": "2025-09-07",
-      "paid_price": 220.79999999999998
-    },
-    {
       "date": "2025-09-09",
       "paid_price": 122.68799999999999
     },
     {
       "date": "2025-09-10",
-      "paid_price": 15049.2
+      "paid_price": 15198.0
     },
     {
       "date": "2025-09-12",
@@ -2374,8 +2363,12 @@
       "paid_price": 370.788
     },
     {
+      "date": "2025-09-15",
+      "paid_price": 40.8
+    },
+    {
       "date": "2025-09-16",
-      "paid_price": 25.8
+      "paid_price": 131.4
     },
     {
       "date": "2025-09-18",
@@ -2394,8 +2387,12 @@
       "paid_price": 40.5
     },
     {
+      "date": "2025-09-24",
+      "paid_price": 138.0
+    },
+    {
       "date": "2025-09-25",
-      "paid_price": 126.0
+      "paid_price": 445.79999999999995
     },
     {
       "date": "2025-09-26",
@@ -2414,8 +2411,8 @@
       "paid_price": 69.6
     },
     {
-      "date": "2025-10-02",
-      "paid_price": 82.2
+      "date": "2025-10-01",
+      "paid_price": 64.2
     },
     {
       "date": "2025-10-03",
@@ -2423,7 +2420,7 @@
     },
     {
       "date": "2025-10-04",
-      "paid_price": 3378.3
+      "paid_price": 3356.7
     },
     {
       "date": "2025-10-05",
@@ -2434,24 +2431,28 @@
       "paid_price": 126.29999999999998
     },
     {
+      "date": "2025-10-08",
+      "paid_price": 53.4
+    },
+    {
+      "date": "2025-10-12",
+      "paid_price": 86.39999999999999
+    },
+    {
       "date": "2025-10-13",
       "paid_price": 48.3
     },
     {
       "date": "2025-10-14",
-      "paid_price": 699.9
+      "paid_price": 452.4
     },
     {
       "date": "2025-10-15",
-      "paid_price": 126.0
+      "paid_price": 212.7
     },
     {
       "date": "2025-10-17",
       "paid_price": 101.988
-    },
-    {
-      "date": "2025-10-20",
-      "paid_price": 235.2
     },
     {
       "date": "2025-10-22",
@@ -2460,6 +2461,18 @@
     {
       "date": "2025-10-23",
       "paid_price": 26.4
+    },
+    {
+      "date": "2025-10-24",
+      "paid_price": 245.4
+    },
+    {
+      "date": "2025-10-25",
+      "paid_price": 4087.164
+    },
+    {
+      "date": "2025-10-28",
+      "paid_price": 79.18799999999999
     },
     {
       "date": "2025-10-29",
@@ -2474,10 +2487,6 @@
       "paid_price": 96.0
     },
     {
-      "date": "2025-11-04",
-      "paid_price": 9150.0
-    },
-    {
       "date": "2025-11-05",
       "paid_price": 2940.0
     },
@@ -2486,16 +2495,24 @@
       "paid_price": 58.8
     },
     {
-      "date": "2025-11-29",
-      "paid_price": 1464151.992
+      "date": "2025-11-24",
+      "paid_price": 8047.1759999999995
+    },
+    {
+      "date": "2025-11-25",
+      "paid_price": 82.8
     },
     {
       "date": "2025-12-01",
       "paid_price": 75.6
     },
     {
-      "date": "2025-12-03",
-      "paid_price": 29.099999999999998
+      "date": "2025-12-24",
+      "paid_price": 12171.3
+    },
+    {
+      "date": "2025-12-25",
+      "paid_price": 350.7
     }
   ]
 }
