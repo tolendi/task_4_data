@@ -119,7 +119,7 @@ The same pipeline is applied independently to:
 ## 📬 Submission
 
 * GitHub repository with full code
-* Online dashboard (browser-accessible)
-* Sent to: [p.lebedev@itransition.com](mailto:p.lebedev@itransition.com)
+* Online dashboard (browser-accessible): [link](https://task4data-hjdnazjzbwhrz2cybfybvx.streamlit.app/)
+
 
 ---
