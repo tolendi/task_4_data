@@ -10,7 +10,7 @@ This project processes transactional and book-related datasets (`DATA1`, `DATA2`
 
 * Python (pandas, matplotlib)
 * Data cleaning & transformation
-* Basic data visualization
+* Streamlit  data visualization
 
 ---
 
@@ -68,10 +68,20 @@ For each dataset folder:
 
 ---
 
-## 📊 Visualization
+## 📊 Visualization & Dashboard
 
-* Daily revenue line chart created using matplotlib
-* Displayed in dashboard view
+- Daily revenue line chart built using matplotlib
+- Interactive BI-style dashboard built with Streamlit
+
+The dashboard includes:
+- Top 5 revenue days (formatted YYYY-MM-DD)
+- Number of unique users
+- Number of author sets
+- Most popular author(s)
+- Best buyer (list of user IDs with aliases)
+- Daily revenue trend chart
+
+Each dataset (`DATA1`, `DATA2`, `DATA3`) is displayed in separate dashboard views/tabs.
 
 ---
 
@@ -89,6 +99,12 @@ A simple BI-style dashboard includes:
 Built as a lightweight web-based/static dashboard with multiple views.
 
 ---
+
+## 🚀 How to run dashboard
+
+```bash
+streamlit run app.py
+```
 
 ## 📁 Dataset Scope
 
